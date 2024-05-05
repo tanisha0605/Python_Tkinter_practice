@@ -1,7 +1,7 @@
 from tkinter import *
 window = Tk()
 
-#photo = PhotoImage(file='images.png')
+#photo = PhotoImage(file='image.png')
 
 label = Label(window,
               text="Hello World",
