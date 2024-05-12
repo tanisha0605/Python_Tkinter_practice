@@ -28,7 +28,7 @@ if __name__ == "__main__":
 	gui = Tk() 
 	gui.configure(background="black") 
 	gui.title("Simple Calculator") 
-	gui.geometry("270x150") 
+	gui.geometry("400x170") 
 
 
 	equation = StringVar() 
